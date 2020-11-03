@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.left {
+  width: 93px;
+  height: 83px;
+}
+
+.right {
+  width: 200px;
+  height: 83px;
+}
+
+.down {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.car {
+  padding-top: 10px;
+  text-transform: uppercase;
+  font-family: roboto;
+  letter-spacing: 3px;
+  font-size: 26px;
+}
+
+.expert {
+  text-transform: uppercase;
+  font-family: 'Roboto Mono';
+  letter-spacing: 3px;
+  font-size: 22px;
+}
+
+.data {
+  margin-top: 5px;
+  margin-left: 5px;
+  text-transform: uppercase;
+  font-size: 10px;
+}
+
+.rect {
+  fill: #00adff;
+}
+/*# sourceMappingURL=style.css.map */
